@@ -1,0 +1,35 @@
+.toast {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.bg__primary {
+  background-color: #053742;
+}
+
+.bg__secondary {
+  background-color: #39a2db;
+}
+.bg__third {
+  background-color: #a2dbfa;
+}
+.bg__fourth {
+  background-color: #e8f0f2;
+}
+
+/* ***********************first palette*********************** */
+/* .bg__primary{
+    background-color: #1B262C;
+}
+
+.bg__secondary{
+  background-color: #0F4C75;
+}
+.bg__third{
+    background-color: #3282B8;
+}
+.bg__fourth{
+  background-color: #BBE1FA;
+} */
